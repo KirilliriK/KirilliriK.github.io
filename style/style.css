@@ -1,0 +1,97 @@
+body {
+background-color: #FFF200;
+font-family:'Montserrat',sans-serif;
+}
+
+.header_row {
+margin-top:47px;
+}
+
+.header_1c {
+    font-size:24px;
+    font-weight:700;
+    color:#D91920;
+}
+
+.header_link {
+    color:#D91920;
+    font-weight:700;
+    text-decoration: underline;
+}
+
+.header_link:hover {
+    color:#fff;
+
+}
+
+.section_2 {
+    margin-top:20px;
+    font-weight:700;
+}
+
+.form_1 {
+    background-color:#fff;
+    border-radius:16px;
+    margin-bottom:30px;
+}
+
+.mybtn {
+text-transform:uppercase;
+width:200px;
+background-color:#D91920;
+border:none;
+border-radius:16px;
+transition: background-color .1s linear;
+transition: color .1s linear;
+}
+
+.mybtn:hover {
+    background-color:rgb(218, 217, 204);
+    font-weight:700;
+
+
+}
+
+.form_1c {
+   padding:30px;
+}
+body {
+background-color: #FFF200;
+font-style:"Robobo",sans-serif;
+}
+
+.header_row {
+margin-top:47px;
+}
+
+.header_1c {
+    font-size:24px;
+    font-weight:700;
+    color:#D91920;
+}
+
+.header_link {
+    color:#D91920;
+    font-weight:700;
+    text-decoration: underline;
+}
+
+.header_link:hover {
+    color:#fff;
+
+}
+
+.section_2 {
+    margin-top:20px;
+    font-weight:700;
+}
+
+.form_1 {
+    background-color:#fff;
+    border-radius:16px;
+}
+
+
+.form_1c {
+   padding:30px;
+}
